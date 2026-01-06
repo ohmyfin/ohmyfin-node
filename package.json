@@ -1,0 +1,38 @@
+{
+  "name": "ohmyfin",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for Ohmyfin API - SWIFT transaction tracking, validation, and SSI data (previously known as TrackMySwift)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmyfin/ohmyfin-node.git"
+  },
+  "keywords": [
+    "ohmyfin",
+    "swift",
+    "swift-code",
+    "bic",
+    "iban",
+    "banking",
+    "transaction",
+    "tracking",
+    "correspondent-banking",
+    "ssi",
+    "payment-validation",
+    "trackmyswift"
+  ],
+  "author": "Ohmyfin <support@ohmyfin.ai> (https://ohmyfin.ai)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohmyfin/ohmyfin-node/issues"
+  },
+  "homepage": "https://ohmyfin.ai",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
